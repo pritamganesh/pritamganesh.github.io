@@ -1,4 +1,4 @@
-const url = "https://api.github.com/repos/pritamganesh/pritamganesh.github.io/contents/images";
+const url = "https://api.github.com/repos/pritamganesh/pritamganesh.github.io/contents/paintings";
 const container = document.querySelector(".photos-container");
 const loading = document.querySelector(".lds-heart");
 async function GetImages() {
